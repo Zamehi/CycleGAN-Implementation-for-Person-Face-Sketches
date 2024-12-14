@@ -12,3 +12,4 @@ Split the dataset into smaller batches.
 -
 Reduce the number of training samples as a last resort.
 Train your model for multiple epochs. Carefully monitor the training process and adjust hyperparameters (e.g., learning rate, batch size) as necessary to improve model performance.
+![Uploading {1E581047-F576-4B46-942F-F356AE5B0364}.png…]()
